@@ -71,4 +71,5 @@
 ### 4. 后续建议
 继续以“现网结果 / 证据 / 异常”的口径进行审计汇报，重点监控 `nftables` 计数器和 `pcap` 文件的变化，确保系统在网络环境变化时保持稳定和有效性。
 
----
+---<img width="1763" height="5995" alt="image" src="https://github.com/user-attachments/assets/2e757b42-a53f-4b55-9c32-7fcc94cffff3" />
+
